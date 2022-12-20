@@ -2,4 +2,4 @@
 - 👀 I’m interested in web design gigs.
 - 🌱 I’m currently learning webscraping.
 - 💞️ I’m looking to collaborate on web development projects.
-- 📫 How to reach me? WhatsApp https://wa.me/message/4ZE55BACJICZG1
+- 📫 How to reach me? email: sbonelosthole97@gmail.com 
