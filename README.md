@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sbonelo Sthole (@sbonelosth)
-- 👀 I’m interested in web design gigs.
+- 👀 I’m interested in web development collaborations.
 - 🌱 I’m currently learning webscraping.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me? email: sbonelosthole97@gmail.com 
