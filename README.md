@@ -1,2 +1,3 @@
 - 👋 Hi, my name is Sbonelo.
-- 🕷️ I am a web developer
+- 🕷️ I am a web developer, and some other things.
+- 🤖 I happen to specialize in IoT.
